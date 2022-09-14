@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 
 ## About Me😀
 
-Hongik_Univ Student - majoring in Chemical Engineering 🏭 
-                                  Computer Science 💻
+Hongik_Univ Student. majoring in 
+<br/>
+- Chemical Engineering 🏭 
+- Computer Science 💻
 
 ## Interested In😎
 
