@@ -19,7 +19,13 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello,World!&fontSize=90)
 
 ## About Me😀
-Hongik_Univ Student - major in Chemical Engineering & Computer Science
+
+Hongik_Univ Student - majoring in Chemical Engineering & Computer Science
 
 ## Interested In😎
 
+- BackEnd Developer
+- JAVA programming & Srping framework
+- DataBase Architecture Design
+- Middleware Architecture
+- Python & Data Analyst
