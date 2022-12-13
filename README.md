@@ -16,14 +16,16 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello,World!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WELCOME!&fontSize=90)
 
 ## About Me 😀
 
-Hongik_Univ Student. majoring in 
+Hongik_Univ Graduate. majored in 
 <br/>
 - Chemical Engineering 🏭 
 - Computer Science 💻
+
+BC Card System Engineer
 
 ## Interested In 😎
 
