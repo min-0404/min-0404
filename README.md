@@ -25,7 +25,7 @@ Hongik_Univ Graduate. majored in
 - Chemical Engineering 🏭 
 - Computer Science 💻
 
-BC Card System Engineer
+ BC Card System Developer(2022~)
 
 ## Interested In 😎
 
