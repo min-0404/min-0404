@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **min-0404/min-0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,25 +14,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WELCOME!&fontSize=90)
-
 ## About Me 😀
+<img src = "https://user-images.githubusercontent.com/78293352/214277252-7efde44f-bc61-4708-8a52-06beaf624c4f.png" width = "500" height = "500">
 
-Hongik_Univ Graduate. majored in 
-<br/>
-- Chemical Engineering 🏭 
-- Computer Science 💻
+- Hongik_Univ Graduate. majored in Chemical Engineering 🏭 && Computer Science 💻
 
- BC Card System Developer(2022~)
+- BC Card  <img src = "https://user-images.githubusercontent.com/78293352/214279427-90d321d2-d403-432b-9ea0-18cb7979372f.png" width = "19" height = "19"> System Developer (2022~)
 
 ## Interested In 😎
 
-- BackEnd Developer
-- JAVA programming & Srping framework
-- DataBase Architecture Design
-- Middleware Architecture
-- Python & Data Analyst
+- BackEnd Develope
+- JAVA programming && Spring
+- DataBase && MiddelWare Architecture Design
+- Infra Design && Devops
+- Financial Service && Platform Design
 
 ## Tech Stack 👨‍🔧
 <p align="center">
